@@ -1,0 +1,5 @@
+*.txt
+*.p
+test.py
+skmeans_alt.py
+*.pyc
